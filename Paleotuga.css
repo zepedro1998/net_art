@@ -1,5 +1,6 @@
+{
   box-sizing: border-box;
-  background-image: C:\Users\Zé Pedro\Desktop\PHOTOSHOP\LOGOTIPO PALEOTUGA 3.2.jpg
+  background-image:LOGOTIPO_PALEOTUGA_3.png
   background-repeat: no-repeat;
 }
 img {
@@ -13,7 +14,7 @@ body {
     background-color: #ecc2d1;
     font-size: 20px;
     text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica;
     box-sizing: border-box;
     color: black;
 }
@@ -23,7 +24,7 @@ h1
 {
   font-size: 50px;
   font-family: Arial;
-  color: black;
+  color: red;
   border-style: solid;
   text-align: center;
 }
